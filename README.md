@@ -6,7 +6,7 @@
 - **Cosa vorrei fare nella mia vita?** Ottima domanda, non saprei neanch'io. Mah, magari di diventare spazzino, sicario o mafioso. Oppure anche qualcosa di più tranquillo, come un baby pensionato a 25 anni.
 - **Ultima domanda... _cosa_ sono?** Insomma, come disse il nostro amico Feuerbach, *«Der Mensch ist was er isst» (L'uomo è ciò che mangia)*, allora sarei un bel trancio di pizza oppure un piatto di riso e verdure.
 
-## Tutto quì, se volete contattarmi in qualche modo potete (e per qualche motivo strano) aggiungermi su Instagram presente in questo profilo GitHub. Tutto detto, ti auguro una buona capriola.
+## Tutto quì, se volete contattarmi in qualche modo potete (e per qualche motivo strano) aggiungermi su Instagram presente in questo profilo GitHub. Detto tutto, ti auguro una buona capriola.
 
 
 <!---
