@@ -17,7 +17,8 @@
 
 # Dino Meng
 **Student in Artificial Intelligence and Data Analytics** (*University of Trieste*, *2023-Today*)
---
+
+---
 ## GENERAL INFORMATION
 **Personal and Academical Interests** - Technological-scientifical subjects, such as mathematics, informatics and physics. Further amplification knowledge in Python Programming: libraries for scientifical computation, such as matplotlib and numpy. Knowledge connection through interdisciplinary mini-projects; for example, to connect physics with informatics through numerical calculations with Jupyter notebooks. Further amplification of knowledge in the tool "Pandoc" to convert Markdown documents in LaTeX-rendered PDF files, with personal styling.
 
