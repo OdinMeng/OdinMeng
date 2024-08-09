@@ -24,7 +24,7 @@
 
 **Technical Knowledge** - Programming in C and Python. Scripting in Unix Bash. Markup languages "Markdown" and "Latex" to write scientifical documents.
 
-**Academic Path** - Diploma from the "Da Collo" Institute in the scholastic year 2022-2023, linguistical maturity. Specialization in foreign languages and cultures: english as first language; german as second language; russian as third language. Currently enrolled in the BsC programme "Artificial Intelligence and Data Analytics" in University of Trieste.
+**Academic Path** - Diploma from the "Da Collo" Institute in the scholastic year 2022-2023, linguistical maturity. Specialization in foreign languages and cultures: english as first language; german as second language; russian as third language. Currently enrolled in the BsC programme "Artificial Intelligence and Data Analytics" at the University of Trieste.
 
 **Certificates** - English Livello C1 (FCE Cambridge English Assessment); German Livello B2 (Goethe-Zertifikat Jugendversion).
 
