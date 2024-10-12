@@ -1,5 +1,6 @@
 # Dino Meng
-**Student in Artificial Intelligence and Data Analytics** (*University of Trieste*, *2023-Today*)
+- **Student in Artificial Intelligence and Data Analytics** (*University of Trieste*, *2023-Today*)
+- **Erasmus+ Student at Universitade Nova de Lisboa (NOVA IMS School)** (*2024 - 2025*)
 
 ---
 ## GENERAL INFORMATION
@@ -12,3 +13,12 @@
 2. Currently enrolled in the BsC programme "Artificial Intelligence and Data Analytics" at the University of Trieste.
 3. Ongoing Erasmus+ mobility project at the NOVA IMS Information Management School (Lisbon, Portugal), curriculum Data Science. 
 **Certificates** - English Level C1 (FCE Cambridge English Assessment); German Level B2 (Goethe-Zertifikat Jugendversion).
+
+---
+
+<p float="left">
+  <img src="images/numpylogo.png" width="22%" />
+  <img src="images/matplotlib.webp" width="22%" /> 
+  <img src="images/pandas.svg" width="22%" />
+  <img src="images/scikit-learn-logo-notext.png" width="22%" />
+</p>
