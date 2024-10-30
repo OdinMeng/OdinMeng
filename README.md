@@ -11,7 +11,8 @@
 **Academic Path**
 1. Diploma from the "Da Collo" Institute (linguistic high school) in the academical year 2022-2023: specialization in foreign languages and cultures, which is as follows; English as first language, German as second language and Russian as third language.
 2. Currently enrolled in the BsC programme "Artificial Intelligence and Data Analytics" at the University of Trieste.
-3. Ongoing Erasmus+ mobility project at the NOVA IMS Information Management School (Lisbon, Portugal), curriculum Data Science. 
+3. Ongoing Erasmus+ mobility project at the NOVA IMS Information Management School (Lisbon, Portugal), curriculum Data Science.
+
 **Certificates** - English Level C1 (FCE Cambridge English Assessment); German Level B2 (Goethe-Zertifikat Jugendversion).
 
 ---
