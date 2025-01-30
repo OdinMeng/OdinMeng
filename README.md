@@ -12,7 +12,7 @@
 ---
 
 # Dino Meng
-- **Student in Artificial Intelligence and Data Analytics** ([*University of Trieste*](https://portale.units.it/en), *2023-Today*)
+- **BsC Student in Artificial Intelligence and Data Analytics** ([*University of Trieste*](https://portale.units.it/en), *2023-Today*)
 - **Erasmus+ Student at Universitade Nova de Lisboa** ([*NOVA IMS Information Management School*](https://www.novaims.unl.pt/en/), *September 2024 - February 2025*)
 
 ---
