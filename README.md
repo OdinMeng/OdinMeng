@@ -26,7 +26,7 @@
 2. Currently enrolled in the BsC programme "Artificial Intelligence and Data Analytics" at the University of Trieste.
 3. Erasmus+ mobility project at the NOVA IMS Information Management School (Lisbon, Portugal), curriculum Data Science. During the exchange semester I have developed [five successful projects](https://github.com/OdinMeng/Nova-IMS-Projects-Portfolio).
 
-**Certificates** - English Level C1 (FCE Cambridge English Assessment); German Level B2 (Goethe-Zertifikat Jugendversion).
+**Certificates** - English Level C1 (IELTS Academic 8.0 (9.0 Listening, 8.5 Reading, 7.0 Writing, 7.0 Speaking); German Level B2 (Goethe-Zertifikat Jugendversion).
 
 ---
 
